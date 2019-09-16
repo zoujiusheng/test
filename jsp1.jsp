@@ -25,7 +25,7 @@ function getVerifiCode() {
 		</a><br>
 		<input type="submit" value="登录">
 	</form>
-
+	<h2>hdfjk</h2>
 	
 </body>
 </html>
